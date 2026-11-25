@@ -32,6 +32,7 @@ JavaScript
 Clone the Repository
 
 git clone https://github.com/georgecoulon/itol-basic-website.git
+
 cd itol-basic-website
 
 Alternatively, download the repository as a ZIP file and extract it to your preferred location.
